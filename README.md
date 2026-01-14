@@ -1,41 +1,64 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=0052CC&center=true&vCenter=true&width=600&lines=Fabio+Farias;Data+Intelligence+%26+Innovation;Otimizando+Processos+com+Dados;Transformando+Rotinas+em+Performance..." alt="Typing SVG" />
+</div>
 
-# fabio farias
-**Data Intelligence Analyst | Business Innovation**
+<div align="center">
+  <p><i>Estratégia de negócio pautada em orquestração de dados, inteligência visual e automação de processos.</i></p>
+</div>
 
-*"Transformando dados em inovação e eficiência de negócio."*
+<br>
 
----
+<div align="center">
+  <h4>🛠️ Tech Stack & Workflow</h3>
+  
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br><b>Python</b>
+      </td>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://img.icons8.com/fluency/48/sql.png" width="30" height="30" alt="SQL" /><br><b>SQL</b>
+      </td>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
+      </td>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="30" height="30" alt="Power BI" /><br><b>PowerBI</b>
+      </td>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://img.icons8.com/color/480/visual-studio-code-2019.png" width="30" height="30" alt="VS Code" /><br><b>VS Code</b>
+      </td>
+    </tr>
+  </table>
+  
+  <table style="border: none; border-collapse: collapse; margin-top: 10px;">
+    <tr>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=notion" width="25" height="25" alt="Notion" /><br><b>Notion</b>
+      </td>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://images.ctfassets.net/fcmhu5qfg1dk/7gcnOH46ghCUC5BmuGiHGU/8eee453c643da30adc8b61af93e2859f/Capacities_Logo_-_PNG.png" width="25" height="25" alt="Capacities" /><br><b>Capacities</b>
+      </td>
+      <td align="center" width="90" style="border: none;">
+        <img src="https://img.icons8.com/fluency/48/tick-tick.png" width="25" height="25" alt="TickTick" /><br><b>TickTick</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛠️ Tech Stack
+<br>
 
-**Data & Analytics**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Fabric" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofabiofarias&theme=radical" alt="Profile Details" />
+</div>
 
-**Management & Productivity**
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/TickTick-FF8669?style=flat-square&logo=ticktick&logoColor=white" alt="TickTick" />
-  <img src="https://img.shields.io/badge/Capacities-000000?style=flat-square&logo=capacities&logoColor=white" alt="Capacities" />
-</p>
+<br>
 
----
-
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=ofabiofarias&show_icons=true&theme=nord&hide_border=true" width="400" />
-
----
-
-### 🤝 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ofabiofarias"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contato@farias.cc"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
+<div align="center">
+  <a href="https://linkedin.com/in/ofabiofarias">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contato@farias.cc">
+    <img src="https://img.shields.io/badge/send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
