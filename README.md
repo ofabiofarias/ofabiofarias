@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <h4>🛠️ Tech Stack & Workflow</h3>
+  <p><b>🛠️ Tech Stack & Workflow</p></b>
   
   <table style="border: none; border-collapse: collapse;">
     <tr>
