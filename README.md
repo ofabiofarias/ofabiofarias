@@ -14,16 +14,16 @@
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br><b>Python</b>
+        <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="30" height="30" alt="Power BI" /><br><b>PowerBI</b>
       </td>
       <td align="center" width="90" style="border: none;">
         <img src="https://img.icons8.com/fluency/48/sql.png" width="30" height="30" alt="SQL" /><br><b>SQL</b>
       </td>
       <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
+        <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br><b>Python</b>
       </td>
       <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="30" height="30" alt="Power BI" /><br><b>PowerBI</b>
+        <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
       </td>
       <td align="center" width="90" style="border: none;">
         <img src="https://img.icons8.com/color/480/visual-studio-code-2019.png" width="30" height="30" alt="VS Code" /><br><b>VS Code</b>
