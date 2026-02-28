@@ -20,30 +20,36 @@
         <img src="https://img.icons8.com/fluency/48/sql.png" width="30" height="30" alt="SQL" /><br><b>SQL</b>
       </td>
       <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br><b>Python</b>
+        <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br><b>Python</b>  
+      </td>
+      <td align="center" width="90" style="border: none;">
+      <img src="https://img.icons8.com/color/48/streamlit.png" width="25" height="25" alt="Streamlit" /><br><b>Streamlit</b>
       </td>
       <td align="center" width="90" style="border: none;">
         <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
       </td>
       <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/color/480/visual-studio-code-2019.png" width="30" height="30" alt="VS Code" /><br><b>VS Code</b>
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="25" height="25" alt="Claude" /><br><b>cloudflare</b>
       </td>
     </tr>
   </table>
   
   <table style="border: none; border-collapse: collapse; margin-top: 10px;">
-    <tr>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=notion" width="25" height="25" alt="Notion" /><br><b>Notion</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://images.ctfassets.net/fcmhu5qfg1dk/7gcnOH46ghCUC5BmuGiHGU/8eee453c643da30adc8b61af93e2859f/Capacities_Logo_-_PNG.png" width="25" height="25" alt="Capacities" /><br><b>Capacities</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/fluency/48/tick-tick.png" width="25" height="25" alt="TickTick" /><br><b>TickTick</b>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="90" style="border: none;">
+      <img src="https://img.icons8.com/color/48/todoist.png" width="25" height="25" alt="Todoist" /><br><b>Todoist</b>
+    </td>
+    <td align="center" width="90" style="border: none;">
+      <img src="https://cdn.brandfetch.io/idwtHwLutE/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1772015941606" width="25" height="25" alt="Capacities" /><br><b>Capacities</b>
+    </td>
+    <td align="center" width="90" style="border: none;">
+      <img src="https://img.icons8.com/fluency/48/claude-ai.png" width="25" height="25" alt="Claude" /><br><b>Claude</b>
+    </td>
+    <td align="center" width="90" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=notion" width="25" height="25" alt="Notion" /><br><b>Notion</b>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
