@@ -20,7 +20,7 @@
         <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="30" height="30" alt="Power BI" /><br><b>PBI</b>
       </td>
       <td align="center" width="90" style="border: none;">
-        <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
+        <img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
       </td>
       <td align="center" width="90" style="border: none;">
         <img src="https://img.icons8.com/color/48/supabase.png" width="30" height="30" alt="Supabase" /><br><b>Supabase</b>
