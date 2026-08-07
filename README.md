@@ -1,66 +1,42 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=0052CC&center=true&vCenter=true&width=720&lines=fabio+farias;Data+Intelligence+%26+Innovation;Otimizando+Processos+com+Dados;Transformando+Rotinas+em+Performance" alt="Typing SVG" />
-</div>
-<div align="center">
-  <p><i>Estratégia de negócio sustentada por dados, design de informação e otimização de processos.</i></p>
-</div>
-<br>
-<div align="center">
-  <p><b>🛠️ Tech Stack & Workflow</b></p>
-  
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br><b>Python</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/fluency/48/sql.png" width="30" height="30" alt="SQL" /><br><b>SQL</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="30" height="30" alt="Power BI" /><br><b>PBI</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" width="30" height="30" alt="Fabric" /><br><b>Fabric</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/color/48/supabase.png" width="30" height="30" alt="Supabase" /><br><b>Supabase</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML/CSS" /><br><b>HTML/CSS</b>
-      </td>
-    </tr>
-  </table>
+<p align="center"><sub>INOVAÇÃO DE PROCESSOS &amp; SOLUÇÕES</sub></p>
 
-  <table style="border: none; border-collapse: collapse; margin-top: 10px;">
-    <tr>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://cdn.brandfetch.io/idwtHwLutE/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1772015941606" width="25" height="25" alt="Capacities" /><br><b>Capacities</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/fluency/48/claude-ai.png" width="25" height="25" alt="Claude" /><br><b>Claude</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=notion" width="25" height="25" alt="Notion" /><br><b>Notion</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=cloudflare" width="25" height="25" alt="Cloudflare" /><br><b>Cloudflare</b>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <img src="https://img.icons8.com/fluency/50/tick-tick.png" width="25" height="25" alt="TickTick" /><br><b>TickTick</b>
-      </td>
-    </tr>
-  </table>
-</div>
+<h1 align="center">fabio farias</h1>
+
+
+<p align="center">
+  <sub>Otimização · Design · Dados · <b>método DDO</b></sub>
+</p>
+
 <br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofabiofarias&theme=radical" alt="Profile Details" />
-</div>
-<br>
-<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0052CC?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0052CC?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-0052CC?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/htmx-0052CC?style=flat-square&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-0052CC?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fabric-3F4A56?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-3F4A56?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-3F4A56?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacities-3F4A56?style=flat-square" />
+  <img src="https://img.shields.io/badge/Notion-3F4A56?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Todoist-3F4A56?style=flat-square&logo=todoist&logoColor=white" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ofabiofarias">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge" />
+  </a>
+  <a href="https://farias.cc/portfolio">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-E6EDF3?style=for-the-badge" />
   </a>
   <a href="mailto:contato@farias.cc">
-    <img src="https://img.shields.io/badge/send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONTATO-0052CC?style=for-the-badge" />
   </a>
-</div>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ofabiofarias&bg_color=00000000&color=8B949E&line=0052CC&point=0052CC&area=true&area_color=0052CC&hide_border=true&hide_title=true&days=90" width="95%" />
+</p>
