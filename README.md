@@ -16,18 +16,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Svelte-D14836?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/SvelteKit-D14836?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
   <img src="https://img.shields.io/badge/TypeScript-D14836?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTMX-D14836?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
   <img src="https://img.shields.io/badge/Cloudflare-D14836?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 <p align="center">
+  <a href="https://www.onorca.dev"><img src="https://img.shields.io/badge/%F0%9F%90%8B_Orca-16324F?style=flat-square" alt="Orca" /></a>
+  <img src="https://img.shields.io/badge/Claude-16324F?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Obsidian-16324F?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/TickTick-16324F?style=flat-square&logo=ticktick&logoColor=white" alt="TickTick" />
-  <img src="https://img.shields.io/badge/Zed-16324F?style=flat-square&logo=zedindustries&logoColor=white" alt="Zed" />
+  <img src="https://img.shields.io/badge/Linear-16324F?style=flat-square&logo=linear&logoColor=white" alt="Linear" />
 </p>
-<br><br>
+
+<br>
+
 <p align="center">
   <a href="https://linkedin.com/in/ofabiofarias">
     <img src="https://img.shields.io/badge/LINKEDIN-0052CC?style=for-the-badge" alt="LinkedIn" />
